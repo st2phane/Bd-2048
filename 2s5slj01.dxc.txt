@@ -1,0 +1,27 @@
+﻿Merge branch 'master' into gh-pages
+
+Conflicts:
+	style/main.css
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch gh-pages
+# All conflicts fixed but you are still merging.
+#   (use "git commit" to conclude merge)
+#
+# Changes to be committed:
+#
+#	deleted:    scripts/racemath_characters.js
+#	deleted:    scripts/racemath_ui.js
+#	modified:   style/main.css
+#	deleted:    tile-sets/bd/256.jpeg
+#	new file:   tile-sets/bd/256.jpg
+#	modified:   tile-sets/bd/32.jpg
+#
+
